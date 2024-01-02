@@ -1,4 +1,4 @@
-# LP2- Vodafone Churn Analysis Project
+# Vodafone Churn Analysis Project
 
 ## Business Understanding
 
