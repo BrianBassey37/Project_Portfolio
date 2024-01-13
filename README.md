@@ -1,7 +1,5 @@
 **ABOUT REPOSITORY**
 
-This repository comprises projects I worked on during the Project Phase of my Data Analytics Training and Apprenticeship at Azubi Africa. Each link directs you to a distinct repository housing the files related to the respective project.
-
 **NOTE:** All the projects and accompanying files are in this same repo.
 
 | S/N | PROJECT NAME                                             | DESCRIPTION                                                                                                                                            | STATUS   | ARTICLE               |
